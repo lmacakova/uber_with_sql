@@ -2,7 +2,7 @@
 <sup>Erik Mclean, pexels.com</sup>
 
 # uber_with_sql
-Data for  this project are from from [Uber SQl database](https://www.kaggle.com/datasets/rockyt07/uber-sql-database/code)
+Data for  this project are from from [Uber SQL database](https://www.kaggle.com/datasets/rockyt07/uber-sql-database/code)
 
 Goals:
 1.  Researching data
